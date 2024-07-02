@@ -1,1 +1,1 @@
-# Rndom-number-generation
+# Random-number-generation
